@@ -1,0 +1,15 @@
+h3{
+    text-transform: uppercase;
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+.producto{
+    cursor:  pointer;
+    
+}
+
+.producto :hover{
+    border: 1px solid tomato;
+    border-radius: 5%;
+}
